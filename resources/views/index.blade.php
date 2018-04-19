@@ -33,7 +33,7 @@
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron">
         <div class="container">
-          <h1>Hello, Duniya!</h1>
+          <h1>Hello, Duniya! Aaznul added.</h1>
           <p>Selamat Datang ke Penchala Pet Shop. Kami menyediakan perkhidmatan dan jualan untuk haiwan kesayangan anda dengan pelbagai produk untuk Burung, Kucing, Arnab, Sugar Glider, Hedge Hogs serta hotel boarding. </p>
           <p><a class="btn btn-primary btn-lg" href="products" role="button">Produk &raquo;</a></p>
 

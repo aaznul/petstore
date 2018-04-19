@@ -36,6 +36,8 @@
           <h1>Hello, Duniya!</h1>
           <p>Selamat Datang ke Penchala Pet Shop. Kami menyediakan perkhidmatan dan jualan untuk haiwan kesayangan anda dengan pelbagai produk untuk Burung, Kucing, Arnab, Sugar Glider, Hedge Hogs serta hotel boarding. </p>
           <p><a class="btn btn-primary btn-lg" href="products" role="button">Produk &raquo;</a></p>
+
+          <h1>Tambahan daripada Farid ni</h1>
         </div>
       </div>
     @endif

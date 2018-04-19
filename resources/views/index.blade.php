@@ -38,6 +38,7 @@
           <p><a class="btn btn-primary btn-lg" href="products" role="button">Produk &raquo;</a></p>
 
           <p>Tambahan oleh: HAZIMAN HASHIM</p>
+          <h1>Tambahan daripada Farid ni</h1>
         </div>
       </div>
     @endif
